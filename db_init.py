@@ -3,9 +3,9 @@ from sqlalchemy import create_engine, text
 # ←←← ここにあなたのDB URLをベタ書きします
 DATABASE_URL = (
     "postgresql+psycopg2://"
-    "lemon_cj6f_user:vTnQCIdt7ge98C0LVApgUpxldHrdGffV@"
-    "dpg-db8s4gbl550s73f0n2ig-a.oregon-postgres.render.com/"
-    "lemon_cj6f"
+    "lemon_dttb_user:jBjOLekHxx8Xe1VvqgsIgJ7dpSEZiUT3@"
+    "dpg-db9dm67avr4c73dm4f0g-a.oregon-postgres.render.com/"
+    "lemon_dttb"
     "?sslmode=require"
 )
 
